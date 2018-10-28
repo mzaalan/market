@@ -1,0 +1,28 @@
+{
+  "name": "Metro Mobile Apps Control Panel",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Wael AlShurafa <wael.shorafa@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.4",
+    "bootstrap-rtl": "~3.3.4",
+    "font-awesome": "~4.5.0",
+    "admin-lte-rtl": "git://github.com/airani/AdminLTE.git#2.3.2",
+    "jquery-ui": "~1.11.4",
+    "soundasleep-bootstrap-datetimepicker-sass": "~3.0.3",
+    "bootstrap-datepicker": "~1.6.0"
+  
+  }
+}
